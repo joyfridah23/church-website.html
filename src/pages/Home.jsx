@@ -6,7 +6,7 @@ import { useNavigate } from 'react-router-dom';
 export default function Home() {
     const navigate = useNavigate();
     return (
-        <div className="min-h-screen bg-gray-50 flex flex-col items-center justify-center">
+        <div className="min-h-screen mt-15 bg-gray-50 flex flex-col items-center justify-center">
             <header className="w-full py-8 bg-blue-900 text-white text-center shadow-lg flex flex-col items-center">
                 <img src={logo} alt="Full Gospel Churches of Kenya Logo" className="h-24 w-auto mb-4 rounded-full shadow-lg bg-white" />
                 <h1 className="text-4xl font-bold mb-2">Welcome to Full Gospel Churches of Kenya Machakos</h1>

@@ -5,7 +5,7 @@ const Navbar = () => {
     const handleMenuToggle = () => setMenuOpen(!menuOpen);
     const handleCloseMenu = () => setMenuOpen(false);
     return (
-        <nav className="w-full fixed p-1 bg-blue-900 text-white shadow-lg z-50">
+        <nav className="w-full top-0 fixed p-1 bg-blue-900 text-white shadow-lg z-50">
             <div className="max-w-6xl mx-auto px-4">
                 <div className="flex justify-between items-center h-16">
                     <div className="flex-shrink-0 font-bold text-xl">FGCK Machakos</div>
