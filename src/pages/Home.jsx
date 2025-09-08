@@ -20,8 +20,7 @@ export default function Home() {
                 <section className="mb-8 text-center">
                     <h2 className="text-xl font-semibold mb-2">Get Involved</h2>
                     <p className="text-gray-700 mb-2">We welcome everyone to join our ministries and volunteer teams.</p>
-                    <a href="" onClick={() => navigate('/events')} className="inline-block px-6 py-2 bg-blue-900 text-white rounded shadow hover:bg-blue-800">
-                        Location</a>
+
                 </section>
                 <section className="mb-8">
                     <h2 className="text-2xl font-bold mb-4 text-center">Order of Our Services</h2>
