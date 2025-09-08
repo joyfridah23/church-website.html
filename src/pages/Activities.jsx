@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Events = () => {
+function Activities() {
     return (
         <div>
-            HJGFJK
+
         </div>
     )
 }
 
-export default Events
+export default Activities

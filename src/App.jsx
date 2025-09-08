@@ -3,8 +3,9 @@ import { useState } from 'react'
 import Home from './pages/Home'
 import Location from './pages/Location'
 import { Route, Routes } from 'react-router-dom'
-import Events from './pages/events'
+
 import Navbar from './components/Navbar'
+import Activities from './pages/Activities'
 
 function App() {
 
@@ -15,7 +16,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/location" element={<Location />} />
-        <Route path="/events" element={<Events />} />
+        <Route path="/events" element={<Activities />} />
       </Routes>
 
     </>
