@@ -14,7 +14,7 @@ const Navbar = () => {
                         <a href="/contact" className="hover:text-blue-300">Contact Us</a>
                         <a href="/location" className="hover:text-blue-300">Location</a>
                         <a href="/about" className="hover:text-blue-300">About Us</a>
-                        <a href="/other-activities" className="hover:text-blue-300">Other Activities</a>
+                        <a href="/others" className="hover:text-blue-300">Others</a>
                         <a href="/gallery" className="hover:text-blue-300">Gallery</a>
                     </div>
                     {/* Mobile menu button */}
@@ -46,7 +46,7 @@ const Navbar = () => {
                     <a href="/contact" className="block py-2 hover:text-blue-300" onClick={handleCloseMenu}>Contact Us</a>
                     <a href="/location" className="block py-2 hover:text-blue-300" onClick={handleCloseMenu}>Location</a>
                     <a href="/about" className="block py-2 hover:text-blue-300" onClick={handleCloseMenu}>About Us</a>
-                    <a href="/other-activities" className="block py-2 hover:text-blue-300" onClick={handleCloseMenu}>Other Activities</a>
+                    <a href="/others" className="block py-2 hover:text-blue-300" onClick={handleCloseMenu}>Others</a>
                     <a href="/gallery" className="block py-2 hover:text-blue-300" onClick={handleCloseMenu}>Gallery</a>
                 </div>
             </div>
