@@ -18,7 +18,7 @@ export default function Home() {
 
                 </section>
                 <section className="mb-8 text-center">
-                    <h2 className="text-xl font-semibold mb-2">Get Involved</h2>
+                    <h2 className="text-xl font-semibold mb-2">we love our visitors</h2>
                     <p className="text-gray-700 mb-2">We welcome everyone to join our ministries.</p>
 
                 </section>
