@@ -78,7 +78,7 @@ export default function Home() {
                                 <tr>
                                     <td className="py-2 px-4 border-b">Saturday</td>
                                     <td className="py-2 px-4 border-b">4:00 PM - 6:00 PM</td>
-                                    <td className="py-2 px-4 border-b">praise and worship</td>
+                                    <td className="py-2 px-4 border-b">praise and worship Practice</td>
                                 </tr>
                             </tbody>
                         </table>
