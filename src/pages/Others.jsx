@@ -2,7 +2,7 @@ import React from 'react'
 
 function Others() {
     return (
-        <div className="min-h-screen flex flex-col items-center justify-center bg-gray-50 px-4 py-8">
+        <div className="min-h-screen flex flex-col items-center justify-center px-4 py-8" style={{ backgroundImage: "url('/fgck-background-image.avif')", backgroundSize: 'cover', backgroundPosition: 'center' }}>
             <h1 className="text-3xl font-bold mb-6 text-blue-900 text-center">Other Activities</h1>
             <table className="min-w-full bg-white border border-gray-300 rounded-lg shadow text-xs sm:text-sm md:text-base mb-8">
                 <thead>
