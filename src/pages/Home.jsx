@@ -66,14 +66,19 @@ export default function Home() {
                                     <td className="py-2 px-4 border-b">Youth Bible Study</td>
                                 </tr>
                                 <tr>
+                                    <td className="py-2 px-4 border-b">Thursday</td>
+                                    <td className="py-2 px-4 border-b">7:00 PM - 8:00 PM</td>
+                                    <td className="py-2 px-4 border-b">Home Fellowships</td>
+                                </tr>
+                                <tr>
                                     <td className="py-2 px-4 border-b">Friday</td>
                                     <td className="py-2 px-4 border-b">6:00 PM - 7:30 PM</td>
                                     <td className="py-2 px-4 border-b">Prayer (Church Hall)</td>
                                 </tr>
                                 <tr>
-                                    <td className="py-2 px-4 border-b">Thursday</td>
-                                    <td className="py-2 px-4 border-b">7:00 PM - 8:00 PM</td>
-                                    <td className="py-2 px-4 border-b">Home Fellowships</td>
+                                    <td className="py-2 px-4 border-b">Saturday</td>
+                                    <td className="py-2 px-4 border-b">4:00 PM - 6:00 PM</td>
+                                    <td className="py-2 px-4 border-b">praise and worship</td>
                                 </tr>
                             </tbody>
                         </table>
