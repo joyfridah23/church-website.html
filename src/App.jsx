@@ -5,7 +5,8 @@ import Location from './pages/Location'
 import { Route, Routes } from 'react-router-dom'
 
 import Navbar from './components/Navbar'
-import Activities from './pages/Activities'
+import Others from './pages/Others'
+import Contact from './pages/Contact'
 
 function App() {
 
@@ -16,7 +17,8 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/location" element={<Location />} />
-        <Route path="/events" element={<Activities />} />
+        <Route path="/others" element={<Others />} />
+        <Route path="/contact" element={<Contact />} />
       </Routes>
 
     </>
