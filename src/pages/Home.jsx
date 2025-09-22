@@ -13,6 +13,7 @@ export default function Home() {
                 <p className="text-lg">A place to worship, connect, and grow in faith</p>
             </header>
             <main className="flex-1 w-full max-w-3xl px-2 sm:px-4 py-8">
+
                 <section className="mb-8 text-center">
                     <h2 className="text-2xl font-semibold mb-4">you are all welcome</h2>
 
@@ -21,8 +22,7 @@ export default function Home() {
                     <h2 className="text-xl font-semibold mb-2">we love our visitors</h2>
                     <p className="text-gray-700 mb-2">We welcome everyone to join our ministries.</p>
 
-                </section>
-                <section className="mb-8">
+
                     <h2 className="text-2xl font-bold mb-4 text-center">Order of Our Services</h2>
                     <div className="mb-6 overflow-x-auto">
                         <h3 className="text-xl font-semibold mb-2 text-blue-900">Sunday Services</h3>

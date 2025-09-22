@@ -23,10 +23,24 @@ function Others() {
                         <td className="py-2 px-4 border-b">Youth Seminar</td>
                         <td className="py-2 px-4 border-b">After Service</td>
                     </tr>
+
                 </tbody>
             </table>
+
+            <section className="mb-8">
+                <section className="mb-8 flex justify-end items-center ">
+                    <div className="bg-gradient-to-br from-blue-500 to-blue-800 border-l-4 border-violet-700
+                         text-white p-6 rounded shadow  md:w-70 w-full mr-0 " >
+                        <h2 className="text-2xl font-bold mb-2 text-center">Tithes and Offerings</h2>
+                        <p className="text-lg text-center">You can give your tithes and offerings via our church till number:</p>
+                        <div className="text-3xl font-bold text-center my-4">8045718</div>
+                    </div>
+                </section>
+            </section>
+
         </div>
     );
 }
 
 export default Others
+
