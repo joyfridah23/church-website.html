@@ -44,7 +44,6 @@ const Navbar = () => {
                     <a href="/" className="block py-2 hover:text-blue-300" onClick={handleCloseMenu}>Home</a>
                     <a href="/contact" className="block py-2 hover:text-blue-300" onClick={handleCloseMenu}>Contact Us</a>
                     <a href="/location" className="block py-2 hover:text-blue-300" onClick={handleCloseMenu}>Location</a>
-                    <a href="/about" className="block py-2 hover:text-blue-300" onClick={handleCloseMenu}>About Us</a>
                     <a href="/others" className="block py-2 hover:text-blue-300" onClick={handleCloseMenu}>Others</a>
                     <a href="/gallery" className="block py-2 hover:text-blue-300" onClick={handleCloseMenu}>Gallery</a>
                 </div>
