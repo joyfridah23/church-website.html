@@ -11,7 +11,8 @@ function Contact() {
             <div className="bg-white rounded-lg shadow p-6 w-full max-w-md text-center">
                 <p className="text-xl font-semibold mb-2">Phone:</p>
                 <p className="text-blue-900 text-lg mb-4">07 xxxxxxxx</p>
-                <p className="text-gray-700">You can call or text us for more information about our services, events, or to connect with a pastor.</p>
+                <p className="text-gray-700">You can call or text us for more information about our services, events.
+                    To connect with  pastor, call 07XXXXXXXX.</p>
             </div>
         </div>
     );
