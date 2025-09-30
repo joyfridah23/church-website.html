@@ -1,8 +1,9 @@
 import React from 'react';
+import logo from '../assets/logo.png'
 
 function Contact() {
     return (
-        <div className="min-h-screen flex flex-col items-center justify-center px-4 py-8" style={{ backgroundImage: "url('/fgck-background-image.avif')", backgroundSize: 'cover', backgroundPosition: 'center' }}>
+        <div className="min-h-screen flex flex-col items-center justify-center px-4 py-8" style={{ backgroundImage: `url(${logo})`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
             <h1 className="text-3xl font-bold mb-6 text-blue-900 text-center">Contact Us</h1>
             <p className="text-lg text-gray-700 text-center max-w-xl mb-4">
                 We'd love to hear from you! For any inquiries
