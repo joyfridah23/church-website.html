@@ -17,6 +17,8 @@ export default function Home() {
 
                 <section className="mb-8 text-center">
                     <p className="text-white text-4xl font-bold mb-16">We welcome everyone to join our ministries.</p>
+                    <p className="text-white text-4xl font-bold mb-16">We love visitors.</p>
+
 
                     <h2 className="text-2xl font-bold mb-6 text-center text-4xl text-white underline">Order of Our Services</h2>
                     <div className="mb-6 overflow-x-auto">
@@ -40,7 +42,7 @@ export default function Home() {
                                     <td className="py-2 px-4 border-b border-r">Prayer Session & Sunday School Session in Progress</td>
                                 </tr>
                                 <tr>
-                                    <td className="py-2 px-4 border-b border-r">10:00 AM - 12:00 PM</td>
+                                    <td className="py-2 px-4 border-b border-r">10:00 AM - 1:00 PM</td>
                                     <td className="py-2 px-4 border-b border-r">2nd Service</td>
 
                                 </tr>
@@ -59,8 +61,8 @@ export default function Home() {
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td className="py-2 px-4 border-b border-r">Tuesday</td>
-                                    <td className="py-2 px-4 border-b border-r">6:00 PM - 7:30 PM</td>
+                                    <td className="py-2 px-4 border-b border-r">    Wednesday</td>
+                                    <td className="py-2 px-4 border-b border-r">6:00 PM - 8:00 PM</td>
                                     <td className="py-2 px-4 border-b">Bible Study (Church Hall)</td>
                                 </tr>
                                 <tr>
@@ -71,12 +73,12 @@ export default function Home() {
                                 <tr>
                                     <td className="py-2 px-4 border-b border-r">Friday</td>
                                     <td className="py-2 px-4 border-b border-r">6:00 PM - 7:30 PM</td>
-                                    <td className="py-2 px-4 border-b">Prayer (Church Hall)</td>
+                                    <td className="py-2 px-4 border-b">Evening Prayers (Church Hall)</td>
                                 </tr>
                                 <tr>
                                     <td className="py-2 px-4 border-b border-r">Saturday</td>
                                     <td className="py-2 px-4 border-b border-r">4:00 PM - 6:00 PM</td>
-                                    <td className="py-2 px-4 border-b">Choir Practice</td>
+                                    <td className="py-2 px-4 border-b">Praise and Worship Practice</td>
                                 </tr>
                             </tbody>
                         </table>
